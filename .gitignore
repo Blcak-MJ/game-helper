@@ -1,0 +1,10 @@
+.idea
+.log
+.tlog
+.pch
+.obj
+.idb
+.pdb
+DNFHelper/Debug
+HelperStart/HelperStart/Debug
+HelperStart/HelperStart/x64
